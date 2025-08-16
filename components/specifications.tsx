@@ -60,7 +60,7 @@ export default function Specifications() {
   }, [])
 
   return (
-    <section ref={sectionRef} className="min-h-screen bg-gradient-to-b from-card/30 to-background/95">
+    <section ref={sectionRef} className="min-h-screen ">
       
     </section>
   )
